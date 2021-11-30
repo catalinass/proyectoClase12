@@ -12,7 +12,7 @@ public class CLaseHija {
         System.out.println("--------DATOS DEL CARRO #1---------");
         System.out.println("Marca del carro1: " + carro1.getMarca());
         System.out.println("Ahno de lanzamiento: " + carro1.getAhno());
-        System.out.println("Kilometros recorridos: " + carro1.getKmRecorridos());
+        System.out.println("El carro tiene un total de Kilometros recorridos de: " + carro1.getKmRecorridos());
         System.out.println("El carro esta en estado encendido: " + carro1.isEncendido());
         System.out.println("El carro tiene las luces: " + carro1.isLuces());
         System.out.println("------------------------------------");
